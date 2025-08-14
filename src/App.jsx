@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+
 import Nav from "./components/Nav"
 import Hero from "./components/Hero"
 import AboutUs from "./components/AboutUs"
